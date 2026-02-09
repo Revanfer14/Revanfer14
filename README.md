@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Computer+Science+@+Binus+University;Apple+Developer+Academy+Intern;Software+Engineer" alt="Typing SVG" />
 </p>
 
-### 🚀 Computer Science Student & Aspiring Software Engineer
+### 🚀 About
 I am a 6th-semester Computer Science student at **Binus University** and currently an intern at the **Apple Developer Academy @ BINUS**. I am passionate about building impactful software and creating user-friendly tech solutions that respect both users and codebases.
 
 ---
