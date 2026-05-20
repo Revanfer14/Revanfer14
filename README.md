@@ -38,7 +38,7 @@ I am a 6th-semester Computer Science student at **Binus University** and current
     <img src="https://img.shields.io/badge/LinkedIn-Revan%20Ferdinand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/>
-  <a href="https://revanferdinand.vercel.app">
+  <a href="https://revanferdinand.net">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
